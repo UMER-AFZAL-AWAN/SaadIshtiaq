@@ -1,2 +1,5 @@
 /.venv
 /.vscode
+/DjangoFirstProj/MyFirstDjangoProject/MyFirstDjangoProject/__pycache__
+/DjangoFirstProj/MyFirstDjangoProject/MyFirstDjangoProject/MyFirstApiApp/__pycache__
+DjangoFirstProj/MyFirstDjangoProject/db.sqlite3
