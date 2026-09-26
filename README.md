@@ -12,7 +12,7 @@ Python 3.12.3
 PS C:\D\Codes\SaadBhaiBackChod\SaadIshtiaq> 
 
 
-FOR UBUNTU:
+Saad FOR UBUNTU:
 To activate the virtual env: source .venv/bin/activate
 
 launch.json parameters
@@ -40,3 +40,14 @@ settings.json parameters
   "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
   "python-envs.pythonProjects": [],
 }
+
+
+
+Umer: 
+py -m pip install --upgrade pip
+pip freeze > requirements.txt
+
+
+Todo for Saad:
+requirements.txt read karay pip ko point karo 
+
